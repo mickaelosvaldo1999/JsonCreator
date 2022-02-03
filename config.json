@@ -1,0 +1,15 @@
+{
+	"pessoa" : 
+	[
+		{
+			"faculdade" : "IFMG",
+			"id" : 14,
+			"nome" : "Mickael"
+		},
+		{
+			"faculdade" : "UFOP",
+			"id" : 10,
+			"nome" : "Maria"
+		}
+	]
+}
