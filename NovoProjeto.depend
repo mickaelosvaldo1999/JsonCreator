@@ -189,3 +189,104 @@
 	<sstream>
 	"config.h"
 
+1668130002 source:/home/mickael/Desktop/nova pasta/Serializa-cpp/jsoncpp.cpp
+	"json/json.h"
+	<json/config.h>
+	<clocale>
+	"json_tool.h"
+	<json/assertions.h>
+	<json/reader.h>
+	<json/value.h>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstring>
+	<iostream>
+	<istream>
+	<limits>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cstdio>
+	<json/assertions.h>
+	<json/value.h>
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstddef>
+	<cstring>
+	<iostream>
+	<sstream>
+	<utility>
+	<stdarg.h>
+	"json_valueiterator.inl"
+	"json_tool.h"
+	<json/writer.h>
+	<algorithm>
+	<cassert>
+	<cctype>
+	<cstring>
+	<iomanip>
+	<memory>
+	<set>
+	<sstream>
+	<utility>
+	<cmath>
+	<cstdio>
+	<cmath>
+	<cstdio>
+	<float.h>
+	<float.h>
+	<ieeefp.h>
+
+1668130002 /home/mickael/Desktop/nova pasta/Serializa-cpp/json/json.h
+	<cstring>
+	<memory>
+	<cstddef>
+	<cstdint>
+	<istream>
+	<memory>
+	<ostream>
+	<sstream>
+	<string>
+	<type_traits>
+	"allocator.h"
+	"version.h"
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<array>
+	<exception>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	"json_features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<istream>
+	<stack>
+	<string>
+	"value.h"
+	<ostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<sstream>
+	"config.h"
+
+1668130002 source:/home/mickael/Desktop/nova pasta/Serializa-cpp/main.cpp
+	<iostream>
+	<fstream>
+	<Pessoa.h>
+	"json/json.h"
+
+1668130002 /home/mickael/Desktop/nova pasta/Serializa-cpp/include/Pessoa.h
+	<string>
+
+1668130002 source:/home/mickael/Desktop/nova pasta/Serializa-cpp/src/Pessoa.cpp
+	"Pessoa.h"
+

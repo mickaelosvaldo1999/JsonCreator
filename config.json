@@ -10,6 +10,11 @@
 			"faculdade" : "UFOP",
 			"id" : 10,
 			"nome" : "Maria"
+		},
+		{
+			"faculdade" : "IFMG",
+			"id" : 656584,
+			"nome" : "Teste"
 		}
 	]
 }
